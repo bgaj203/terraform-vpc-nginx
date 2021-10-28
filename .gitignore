@@ -1,0 +1,5 @@
+*.hcl
+aws-key
+aws-key*
+*.tfstate
+*.tfstate.backup
